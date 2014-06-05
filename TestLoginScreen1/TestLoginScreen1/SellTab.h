@@ -9,6 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface SellTab : UIView
+
 @property (weak, nonatomic) IBOutlet UITextField *txtSelling;
 
 - (IBAction)backgroundTap:(id)sender;
