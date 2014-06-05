@@ -45,15 +45,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		705718C0193D4528002760A8 /* buyicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = buyicon.png; path = ../../../buyicon.png; sourceTree = "<group>"; };
-		705718C2193D45AF002760A8 /* sellicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sellicon.png; path = ../../../sellicon.png; sourceTree = "<group>"; };
-		705718C4193D4638002760A8 /* profile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profile.png; path = ../../../profile.png; sourceTree = "<group>"; };
-		705718C6193DFE01002760A8 /* alec.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = alec.jpg; path = ../../../alec.jpg; sourceTree = "<group>"; };
-		705718C8193E029C002760A8 /* balanced.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = balanced.jpg; path = ../../../balanced.jpg; sourceTree = "<group>"; };
-		705DB8C0193E067600274B50 /* sculpture2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = sculpture2.jpg; path = ../../../sculpture2.jpg; sourceTree = "<group>"; };
-		705DB8C2193E071100274B50 /* sculpture3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = sculpture3.jpg; path = ../../../sculpture3.jpg; sourceTree = "<group>"; };
-		705DB8C4193E1A2500274B50 /* knife set.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "knife set.jpg"; path = "../../../knife set.jpg"; sourceTree = "<group>"; };
-		705DB8C6193E1A8000274B50 /* motorcycle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = motorcycle.jpg; path = ../../../motorcycle.jpg; sourceTree = "<group>"; };
+		705718C0193D4528002760A8 /* buyicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = buyicon.png; path = Images/buyicon.png; sourceTree = "<group>"; };
+		705718C2193D45AF002760A8 /* sellicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sellicon.png; path = Images/sellicon.png; sourceTree = "<group>"; };
+		705718C4193D4638002760A8 /* profile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = profile.png; path = Images/profile.png; sourceTree = "<group>"; };
+		705718C6193DFE01002760A8 /* alec.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = alec.jpg; path = Images/alec.jpg; sourceTree = "<group>"; };
+		705718C8193E029C002760A8 /* balanced.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = balanced.jpg; path = Images/balanced.jpg; sourceTree = "<group>"; };
+		705DB8C0193E067600274B50 /* sculpture2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = sculpture2.jpg; path = Images/sculpture2.jpg; sourceTree = "<group>"; };
+		705DB8C2193E071100274B50 /* sculpture3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = sculpture3.jpg; path = Images/sculpture3.jpg; sourceTree = "<group>"; };
+		705DB8C4193E1A2500274B50 /* knife set.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "knife set.jpg"; path = "Images/knife set.jpg"; sourceTree = "<group>"; };
+		705DB8C6193E1A8000274B50 /* motorcycle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = motorcycle.jpg; path = Images/motorcycle.jpg; sourceTree = "<group>"; };
 		70A139F6193F69B600240A07 /* SellTab.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SellTab.h; sourceTree = "<group>"; };
 		70A139F7193F69B600240A07 /* SellTab.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SellTab.m; sourceTree = "<group>"; };
 		70F8740A1938D880008134F9 /* TestLoginScreen1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestLoginScreen1.app; sourceTree = BUILT_PRODUCTS_DIR; };
