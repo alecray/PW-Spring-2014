@@ -116,7 +116,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="320" height="195"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             </imageView>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="mona_lisa.png" translatesAutoresizingMaskIntoConstraints="NO" id="adY-nS-Zlx">
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="mona_lisa.png" translatesAutoresizingMaskIntoConstraints="NO" id="adY-nS-Zlx">
                                                 <rect key="frame" x="0.0" y="203" width="320" height="207"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             </imageView>
@@ -234,12 +234,12 @@
                                         <rect key="frame" x="0.0" y="0.0" width="320" height="616"/>
                                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                         <subviews>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="medici.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="P0J-QW-Kzf">
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="medici.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="P0J-QW-Kzf">
                                                 <rect key="frame" x="20" y="20" width="100" height="100"/>
                                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                                 <accessibility key="accessibilityConfiguration" label="profilePicture"/>
                                             </imageView>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="bust.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="wX1-MW-YZO">
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="bust.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="wX1-MW-YZO">
                                                 <rect key="frame" x="20" y="166" width="280" height="187"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             </imageView>
@@ -258,11 +258,11 @@
                                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="La_nascita_di_Venere_(Botticelli).jpg" translatesAutoresizingMaskIntoConstraints="NO" id="zj7-1x-X0Z">
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="La_nascita_di_Venere_(Botticelli).jpg" translatesAutoresizingMaskIntoConstraints="NO" id="zj7-1x-X0Z">
                                                 <rect key="frame" x="170" y="412" width="65" height="49"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             </imageView>
-                                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="david.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="awk-6n-p8D">
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="david.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="awk-6n-p8D">
                                                 <rect key="frame" x="20" y="412" width="59" height="49"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             </imageView>
